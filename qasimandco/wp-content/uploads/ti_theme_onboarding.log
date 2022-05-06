@@ -1,0 +1,19 @@
+[12/Dec/2019:10:58:13] (ℹ️): WordPress Instance Info:
+[12/Dec/2019:10:58:13] (ℹ️): Home URL : http://localhost:8080/qasimandco
+[12/Dec/2019:10:58:13] (ℹ️): Site URL : http://localhost:8080/qasimandco
+[12/Dec/2019:10:58:13] (ℹ️): WordPress Version : 5.2.4
+[12/Dec/2019:10:58:13] (ℹ️): Onboarding Version : 1.7.9
+[12/Dec/2019:10:58:13] (ℹ️): Multisite : No
+[12/Dec/2019:10:58:13] (ℹ️): Server Info : Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.7
+[12/Dec/2019:10:58:13] (ℹ️): PHP Version : 7.3.7
+[12/Dec/2019:10:58:13] (ℹ️): HTTPS : No
+[12/Dec/2019:10:58:13] (ℹ️): PHP Max Execution Time : 3000
+[12/Dec/2019:10:58:13] (ℹ️): PHP Max Input Vars : 1000
+[12/Dec/2019:10:58:13] (ℹ️): Max Upload Size : 2097152
+[12/Dec/2019:10:58:13] (ℹ️): Plugins:
+[12/Dec/2019:10:58:13] (ℹ️): [PLUGIN] Elementor : v2.7.5 (Elementor.com)
+[12/Dec/2019:10:58:13] (ℹ️): [PLUGIN] Favicon Rotator : v1.2.7 (Archetyped)
+[12/Dec/2019:10:58:13] (ℹ️): [PLUGIN] Preloader : v1.0.9 (Alobaidi)
+[12/Dec/2019:10:58:13] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.10 (Themeisle)
+[12/Dec/2019:10:58:13] (ℹ️): [PLUGIN] Widget Importer &amp; Exporter : v1.5.5 (ChurchThemes.com)
+[12/Dec/2019:10:58:13] (ℹ️): [PLUGIN] WP Fastest Cache : v0.9.0.0 (Emre Vona)
